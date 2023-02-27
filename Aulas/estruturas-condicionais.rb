@@ -31,6 +31,7 @@ else
 end
 
 # ESTRUTURA CONDICIONAL TERNÁRIA #
+sexo = 'M'
 =begin
   if sexo == 'M'
     puts 'Masculino'
@@ -38,4 +39,4 @@ end
     puts 'Feminino'
   end   
 =end
-sexo == 'M' ? puts 'Masculino' : puts 'Feminino'
+puts (sexo == 'M' ? 'Masculino' : 'Feminino')
