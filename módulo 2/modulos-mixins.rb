@@ -1,0 +1,3 @@
+# MÓDULOS #
+# Módulos Ruby são similares a classes em relação ao fato de que também armazenam uma coleção de métodos, constantes e definições de módulos e classes
+# Diferente das classes, você não pode criar objetos baseados em módulos nem pode criar móudlos que herdam desse módulo; ou invés disso, você especifica qual funcionalidade de um módulo específico você deseja adicionar a uma classe ou a um objeto específico
